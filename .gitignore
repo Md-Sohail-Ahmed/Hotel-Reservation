@@ -28,5 +28,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-HotelReservation.iml
+
 .idea
+HotelReservation.iml
